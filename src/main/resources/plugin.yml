@@ -1,0 +1,17 @@
+# The main class, do not modify unless you change the code!
+main: me.lugamidev.kunai.Loader
+
+# The plugin version, you don't need to modify this! (unless you need it somehow)
+version: 1.0
+
+# The plugin name, you don't need to modify this! (unless you need it somehow)
+name: Kunai
+
+# The plugin description, why would you change this?
+description: My first simple plugin in Java!
+
+# The plugin author, IF YOU CHANGE THIS GIVE ME CREDITS!
+author: Lugami
+
+# The Nukkit API version needed, do not modify unless you change the code! (and you need it somehow)
+api: 1.0.14

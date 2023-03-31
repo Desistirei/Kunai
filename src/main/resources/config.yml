@@ -1,0 +1,18 @@
+# My first simple plugin in Nukkit!
+# Made by https://github.com/Desistirei, check it out!
+
+# Startup Event
+startup:
+  enabled: true
+  message: "&aKunai was enabled!"
+
+# Shutdown Event
+shutdown:
+  enabled: true
+  shutdown-msg: "&cKunai was disabled!"
+
+# Chat Event
+chat:
+  enabled: true
+  player-message: "bom dia"
+  player-answer: "&aBom dia %player%!"
